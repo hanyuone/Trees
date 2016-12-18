@@ -1,4 +1,6 @@
-# Trees: Creatio ex nihilo
+# Trees
+
+## Creatio ex nihilo (Creation out of nothing)
 
 The game of Trees is one that guides you to conquer all in your sight from nothing but a patch of dirt and a tree.
 
